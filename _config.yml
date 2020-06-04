@@ -1,6 +1,6 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
+title:            Sheila Mbadi
+tagline:          'Applied Machine Learning Enthusiast'
 description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://hyde.getpoole.com
 baseurl:          ''
@@ -8,8 +8,8 @@ paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Sheila Mbadi'
+  url:            https://twitter.com/sheilambadi
 
 # Gems
 plugins:
